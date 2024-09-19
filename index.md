@@ -7,3 +7,5 @@
 ``` javascript
 var huh = ["umm"];
 ```
+- [x] Create a github account
+- [] learn more about it
